@@ -24,7 +24,8 @@
   <img src="https://img.shields.io/badge/BootStrap-7952B3?style=flat&logo=Spring Boot&logoColor=white"/>
   <br>
   <h6> 📌형상관리 </h6>
-  <img src="https://img.shields.io/badge/Git-181717?style=flat&logo=Spring Boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Spring Boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=Spring Boot&logoColor=white"/>
 
 
 
