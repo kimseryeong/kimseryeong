@@ -1,7 +1,9 @@
 <div>
-  <p><h3>안녕하세요! ✨Seryeong✨ 입니다.</h3><p>
+  <p><h3>Hello, I'm Seryeong!✨ </h3><p>
   <span>
-    산업공학을 전공하였고, 🌱 웹 개발자로서 꾸준히 성장하는 중입니다! <br>
+    I've been working as a web developer since 2022. <br>
+    I'm continuously learning and growing as a developer. 🌱 <br>
+    I enjoy taking on new challenges so I'm confident in learning new technologies. <br>
   </span>
 </div>
 
@@ -13,16 +15,39 @@
 -->
 
 <div>
-  <h6> 📌Tech Stack </h6>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+  <h5> 📌 Tech Stack </h5>
+  <!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E style=flat&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-4479A1?style=flat&logo=Oracle&logoColor=#F80000"/>
+-->
+
+ [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://dev.java/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)](https://react.dev/)
+[![Postgresql](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 </div>  
+
+<div>
+  <h5> 📌 My personal project </h5>
+  <ul>
+    <li>
+      <span>🗂️: </span><a href="https://plantodolist.netlify.app/" target="_blank">Todolist</a> 
+      (May. 2024 ~ July. 2024) 
+       <br>
+      [ React, Supabase, Google Auth API, Full Calendar API ]
+    </li>
+  </ul> 
+</div>
+
+<hr>
 
 <br>
 <!--   <div align=center>
