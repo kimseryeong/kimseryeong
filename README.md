@@ -16,23 +16,26 @@
 
 <div>
   <h5> 📌 Tech Stack </h5>
-  <!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E style=flat&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-4479A1?style=flat&logo=Oracle&logoColor=#F80000"/>
--->
-
- [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  <!-- 
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E style=flat&logo=JavaScript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"> 
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Oracle-4479A1?style=flat&logo=Oracle&logoColor=#F80000"/>
+    <img src="https://img.shields.io/badge/springboot?style=flat&logo=springboot&logoColor=#6DB33F"/>
+  -->
+  
 [![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://dev.java/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)](https://react.dev/)
 [![Postgresql](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
+    
 </div>  
 
 <div>
@@ -42,7 +45,8 @@
       <span>🗂️: </span><a href="https://plantodolist.netlify.app/" target="_blank">Todolist</a> 
       (May. 2024 ~ July. 2024) 
        <br>
-      [ React, Supabase, Google Auth API, Full Calendar API ]
+      It's a web application for tasking your todos with calendar.
+      [ Skills: React, Supabase, Google Auth API, Full Calendar API ]
     </li>
   </ul> 
 </div>
