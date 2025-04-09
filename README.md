@@ -42,7 +42,7 @@
   <h5> 📌 My personal project </h5>
   <ul>
     <li>
-      <span>🗂️: </span><a href="https://planmytodos.netlify.app/" target="_blank">📆 PlanMyTodo</a> 
+      <span>📆  </span><a href="https://planmytodos.netlify.app/" target="_blank">PlanMyTodo</a> 
       (May. 2024 ~ July. 2024) 
        <br>
       It's a web application for tasking your todos with calendar.
