@@ -1,7 +1,7 @@
 <div>
   <p><h3>Hello, I'm Seryeong!✨ </h3><p>
   <span>
-    I've been working as a web developer since 2022. <br>
+    I've been working as a Full-stack web developer since 2022. <br>
     I'm continuously learning and growing as a developer. 🌱 <br>
     I enjoy taking on new challenges so I'm confident in learning new technologies. <br>
   </span>
@@ -42,7 +42,7 @@
   <h5> 📌 My personal project </h5>
   <ul>
     <li>
-      <span>🗂️: </span><a href="https://plantodolist.netlify.app/" target="_blank">Todolist</a> 
+      <span>🗂️: </span><a href="https://planmytodos.netlify.app/" target="_blank">📆 PlanMyTodo</a> 
       (May. 2024 ~ July. 2024) 
        <br>
       It's a web application for tasking your todos with calendar.
