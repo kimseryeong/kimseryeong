@@ -46,7 +46,7 @@
       (May. 2024 ~ July. 2024) 
        <br>
       It's a web application for tasking your todos with calendar.
-      [ Skills: React, Supabase, Google Auth API, Full Calendar API ]
+      <br> [ Skills: React, Supabase, Google Auth API, Full Calendar API ]
     </li>
   </ul> 
 </div>
